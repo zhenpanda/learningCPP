@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490048725 source:c:\users\thenexus\desktop\interaction3\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+
+1490048813 source:c:\users\thenexus\desktop\interaction3\operator.cpp
+	<iostream>
+	<string>
+	<ctime>
+
