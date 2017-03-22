@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490215947 source:c:\users\thenexus\desktop\loop\main.cpp
+	<iostream>
+	<cmath>
+
