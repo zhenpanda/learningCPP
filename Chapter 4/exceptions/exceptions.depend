@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493408553 source:c:\users\thenexus\desktop\exceptions\main.cpp
+	<iostream>
+	<cmath>
+	<stdexcept>
+
